@@ -4,9 +4,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.springframework</groupId>
-    <artifactId>assignment1</artifactId>
+    <artifactId>StudentRegistrationSystem</artifactId>
     <packaging>jar</packaging>
-    <version>0.1.0</version>
+    <version>1.0</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
@@ -28,7 +28,7 @@
 		<dependency>
 	    <groupId>com.github.JMGNUIGStu</groupId>
 	    <artifactId>Prog3</artifactId>
-	    <version>1.0</version>
+	    <version>1.1</version>
 	</dependency>
 	</dependencies>
 	
